@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.16 — 2026-10-31
+### Added
+- Knowledge: basket washing line with an overhead gang crane (low-room crane layout, lift-beam drain rests,
+  manual fill spur, tipper discharge to a Z sidewall belt, timing control with overrun limits and compensation
+  modes, RFID traceability, accumulating-lane simulation).
+- Knowledge: clearance and motion checks in SolidCraft before issuing drawings (static poses with
+  inspect.clearance, mechanisms with motion.interference and joint.sweep, SUS304 material and frame members).
+
 ## v0.15 — 2026-10-16
 ### Added
 - Snack knowledge: line overview, extruded corn, khao taen (baked), baked crisps + pork sheet, seasoning and packing.
